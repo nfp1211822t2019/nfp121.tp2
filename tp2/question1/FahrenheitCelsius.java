@@ -1,40 +1,41 @@
 package question1;
 
 /**
- * Décrivez votre classe FahrenheitCelsius ici.
+
+ * DÃ©crivez votre classe FahrenheitCelsius ici.
  * 
  * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @version (un numÃ©ro de version ou une date)
  */
 public class FahrenheitCelsius {
 
 	/**
-	 * le point d'entrée de cette application, dont le commentaire est à
-	 * compléter
+	 * le point d'entrÃ©e de cette application, dont le commentaire est Ã 
+	 * complÃ©ter
 	 * 
 	 * @param args
 	 *            ...
 	 */
 	public static void main(String[] args) {
-		// pour tous les paramètres de la ligne de commande
+		// pour tous les paramÃ¨tres de la ligne de commande
 		int fahrenheit = 0;
 		float celsius = 0;
 		System.out.println(fahrenheit + "\u00B0F -> " + celsius + "\u00B0C"); // ligne,
 																				// format
-																				// imposés
+																				// imposÃ©s
 																				
 	}
 
 	/**
-	 * la méthode à compléter.
+	 * la mÃ©thode Ã  complÃ©ter.
 	 * 
 	 * @param f
-	 *            la valeur en degré Fahrenheit
-	 * @return la conversion en degré Celsius
+	 *            la valeur en degrÃ© Fahrenheit
+	 * @return la conversion en degrÃ© Celsius
 	 */
 	public static float fahrenheitEnCelsius(int f) {
 
-		return 0.F; // à compléter en remplaçant ce return 0.F par la fonction
+		return 0.F; // Ã  complÃ©ter en remplaÃ§ant ce return 0.F par la fonction
 					// de conversion
 	}
 
